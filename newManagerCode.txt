@@ -1,0 +1,4 @@
+if(teamMember.happiness < 5)
+{
+	doSlapTeamMember();
+}
