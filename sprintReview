@@ -1,0 +1,10 @@
+function doSprintReview()
+{
+  foreach(member in Team)
+  {
+    foreach(userStory)
+    {
+      evaluateIfFulfilled();
+    }
+  }
+}
