@@ -1,6 +1,6 @@
 function doSprintReview()
 {
-  foreach(individual in MegaSuperGroup) 
+  foreach(developer in SCRUMTEAM) 
   {
     foreach(userStory)
     {
