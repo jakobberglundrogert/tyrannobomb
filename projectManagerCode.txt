@@ -10,3 +10,8 @@ if(teamMember.happiness >= 5)
 {
 	goHome();
 }
+if(teamMember2.late > 15)
+{
+	doWaitUntil15();
+	startMeeting();
+}
