@@ -2,13 +2,13 @@ if(teamMember.happiness < 5)
 {
 	doSaySomethingNice();
 }
+if(teamMember.energy <= 5)
+{
+	doDrinkSoda();
+}
 if(teamMember.happiness < 5)
 {
 	doBakeCake();
-}
-if(teamMember.happiness >= 5)
-{
-	goHome();
 }
 if(teamMember.late > 15)
 {
