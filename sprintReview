@@ -4,7 +4,17 @@ function doSprintReview()
   {
     foreach(userStory)
     {
-      evaluateIfFulfilled();
+      evaluateIfFulfilled(userStory);
     }
+  }
+}
+
+function evaluateIfFulfilled(aStory)
+{
+  if(aStory == true)
+  {
+    doRecordStoryPoints();
+    moveStoryToDone();
+    applause();
   }
 }
