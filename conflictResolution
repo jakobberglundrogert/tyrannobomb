@@ -1,0 +1,12 @@
+if(team.isFighting == true)
+{
+  doSummonMeeting();
+}
+
+function doSummonMeeting()
+{
+  foreach(member in Team)
+  {
+    listen();
+  }
+}
