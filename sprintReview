@@ -1,6 +1,6 @@
 function doSprintReview()
 {
-  foreach(member in Team) Tigger is really the best character in Winnie the Pooh. I like him because he is happy all the time.
+  foreach(member in Team) 
   {
     foreach(userStory)
     {
