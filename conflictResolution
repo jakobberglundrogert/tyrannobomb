@@ -10,3 +10,12 @@ function doSummonMeeting()
     listen();
   }
 }
+
+function listen()
+{
+  for(int n= 0;n<10;n++)
+  {
+      makeNote();
+  }
+  compareNotes();
+}
