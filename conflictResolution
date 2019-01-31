@@ -7,6 +7,18 @@ function doSummonMeeting()
 {
   foreach(member in Team)
   {
-    listen();
+    sendSummonInSlack();
+  }
+  doWaitForReply();
+}
+
+function doWaitForReply()
+{
+  foreach(reply in SlackChat)
+  {
+    if(reply == true)
+    {
+      doHoldMeeting();
+    }
   }
 }
