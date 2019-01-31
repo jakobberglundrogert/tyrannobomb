@@ -1,0 +1,12 @@
+if(teamMember.happiness < 5)
+{
+	doSaySomethingNice();
+}
+if(teamMember.happiness < 5)
+{
+	doBakeCake();
+}
+if(teamMember.happiness >= 5)
+{
+	goHome();
+}
