@@ -1,6 +1,6 @@
 function doSprintReview()
 {
-  foreach(member in Team) 
+  foreach(Tigger in WinnieThePooh) 
   {
     foreach(userStory)
     {
