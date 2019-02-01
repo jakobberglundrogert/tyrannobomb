@@ -2,10 +2,8 @@ function newActualPlan()
 {
 	HaveNiceMeeting();
 	EndNiceMeeting();
-<<<<<<< HEAD
-=======
-	
+
 	I like winnie the pooh.
 	But Eeoor is my favorite character.
->>>>>>> d80454bb217cd1d1332707e95e5015bcdf7612cf
+
 }
