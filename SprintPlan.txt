@@ -1,11 +1,11 @@
 function newActualPlan()
 {
-	GroomBacklog();
 	HaveNiceMeeting();
-<<<<<<< HEAD
 	EndNiceMeeting();
+<<<<<<< HEAD
 =======
 	
 	I like winnie the pooh.
->>>>>>> ecb1ca75100831185f5da6174e75fdb9745e56fc
+	But Eeoor is my favorite character.
+>>>>>>> d80454bb217cd1d1332707e95e5015bcdf7612cf
 }
