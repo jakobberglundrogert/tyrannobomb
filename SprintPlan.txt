@@ -2,5 +2,10 @@ function newActualPlan()
 {
 	GroomBacklog();
 	HaveNiceMeeting();
+<<<<<<< HEAD
 	EndNiceMeeting();
+=======
+	
+	I like winnie the pooh.
+>>>>>>> ecb1ca75100831185f5da6174e75fdb9745e56fc
 }
