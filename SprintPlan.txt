@@ -2,4 +2,5 @@ function newActualPlan()
 {
 	GroomBacklog();
 	HaveNiceMeeting();
+	EndNiceMeeting();
 }
